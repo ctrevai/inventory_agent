@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Acme Super Widget",
+    "color": "Blue",
+    "price": 19.99,
+    "quantity": 52,
+    "manuf": "Acme Inc.",
+    "product_id": "383173eb474c407887d18361541d0c74"
+  },
+  {
+    "name": "XYZ Gadget",
+    "color": "Silver",
+    "price": 29.99,
+    "quantity": 87,
+    "manuf": "XYZ Corp.",
+    "product_id": "e4ce382aee914c9b9078fd0824599266"
+  },
+  {
+    "name": "Mega Doohickey",
+    "color": "Red",
+    "price": 39.99,
+    "quantity": 24,
+    "manuf": "Mega Makers",
+    "product_id": "c99736e1be85424dbe1632f4d9a5aa3a"
+  },
+  {
+    "name": "Tiny Thingamajig",
+    "color": "Green",
+    "price": 9.99,
+    "quantity": 9,
+    "manuf": "Tiny Tech",
+    "product_id": "23ad5f396b6e405c9eaca1836b9882a9"
+  },
+  {
+    "name": "Deluxe Whatchamacallit",
+    "color": "Black",
+    "price": 49.99,
+    "quantity": 71,
+    "manuf": "Deluxe Devices",
+    "product_id": "1e40027e2ed548c6970ae9068c91e75b"
+  },
+  {
+    "name": "Precision Gizmo",
+    "color": "Gray",
+    "price": 24.99,
+    "quantity": 42,
+    "manuf": "Precision Parts",
+    "product_id": "7fec9521e4864b15bc18dd506ec5bba0"
+  },
+  {
+    "name": "Turbo Thingummy",
+    "color": "Orange",
+    "price": 34.99,
+    "quantity": 13,
+    "manuf": "Turbo Tech",
+    "product_id": "aaa95b47ed4747858299b916af16df8c"
+  },
+  {
+    "name": "Eco-Friendly Doodad",
+    "color": "Teal",
+    "price": 14.99,
+    "quantity": 68,
+    "manuf": "Green Goods",
+    "product_id": "d9613ee50aa947fbaf5d9fb1a798194a"
+  },
+  {
+    "name": "Ergonomic Whatsit",
+    "color": "Beige",
+    "price": 39.99,
+    "quantity": 35,
+    "manuf": "Comfort Corp",
+    "product_id": "04e55a711958485baac17013b5628502"
+  },
+  {
+    "name": "Illuminating Whatnot",
+    "color": "White",
+    "price": 19.99,
+    "quantity": 91,
+    "manuf": "Bright Ideas",
+    "product_id": "b4690b9cdb1e41d69146855158191c93"
+  },
+  {
+    "name": "Rugged Doohickey",
+    "color": "Brown",
+    "price": 29.99,
+    "quantity": 28,
+    "manuf": "Tough Tools",
+    "product_id": "d3ebcab748e14f9888074ceda96141f1"
+  },
+  {
+    "name": "Compact Gadget",
+    "color": "Navy",
+    "price": 12.99,
+    "quantity": 64,
+    "manuf": "Mini Marvels",
+    "product_id": "a2558ccbb5394c4f9fb612e008ae3de1"
+  },
+  {
+    "name": "Intelligent Thingamabob",
+    "color": "Purple",
+    "price": 44.99,
+    "quantity": 17,
+    "manuf": "Smart Systems",
+    "product_id": "af012bd0348b4e4ea0723d4be2d2823d"
+  },
+  {
+    "name": "Heavy-Duty Whatchamacallit",
+    "color": "Charcoal",
+    "price": 54.99,
+    "quantity": 79,
+    "manuf": "Beefy Builders",
+    "product_id": "0825c9561f584a17aba4d8fe0de25e2e"
+  },
+  {
+    "name": "Versatile Doodad",
+    "color": "Olive",
+    "price": 17.99,
+    "quantity": 31,
+    "manuf": "Adaptable Innovations",
+    "product_id": "79da778f3dd0498396716fbd51717e30"
+  },
+  {
+    "name": "Streamlined Gizmo",
+    "color": "Burgundy",
+    "price": 27.99,
+    "quantity": 5,
+    "manuf": "Sleek Solutions",
+    "product_id": "624162616fa445f0b13ec45907b25e92"
+  },
+  {
+    "name": "Cutting-Edge Thingummy",
+    "color": "Lime",
+    "price": 39.99,
+    "quantity": 46,
+    "manuf": "Tech Trailblazers",
+    "product_id": "8d6c5edc631d4cc3a0b265d0cb5d5521"
+  },
+  {
+    "name": "Durable Whatnot",
+    "color": "Plum",
+    "price": 22.99,
+    "quantity": 22,
+    "manuf": "Tough Stuff",
+    "product_id": "fdd5ca32f82d48dca172340020688d0e"
+  },
+  {
+    "name": "Advanced Doohickey",
+    "color": "Teal",
+    "price": 49.99,
+    "quantity": 60,
+    "manuf": "Innovative Industries",
+    "product_id": "b84ae3ac895b4d9bb465c8363e1e1af1"
+  },
+  {
+    "name": "Premium Gadget",
+    "color": "Gold",
+    "price": 59.99,
+    "quantity": 73,
+    "manuf": "Luxury Goods",
+    "product_id": "7c25cbbbd0134c009b262993f0091585"
+  },
+  {
+    "name": "Compact Thingamajig",
+    "color": "Sage",
+    "price": 14.99,
+    "quantity": 38,
+    "manuf": "Mini Marvels",
+    "product_id": "e21dff447dd9457dbd8d68a505c4b30f"
+  },
+  {
+    "name": "Intelligent Whatchamacallit",
+    "color": "Lavender",
+    "price": 46.99,
+    "quantity": 84,
+    "manuf": "Smart Systems",
+    "product_id": "ffd4db0f008f4437b0bf8d7ab9127264"
+  },
+  {
+    "name": "Heavy-Duty Doodad",
+    "color": "Charcoal",
+    "price": 57.99,
+    "quantity": 11,
+    "manuf": "Beefy Builders",
+    "product_id": "9a4ab754139541da8d8f6308b36bd3bc"
+  },
+  {
+    "name": "Versatile Gizmo",
+    "color": "Olive",
+    "price": 19.99,
+    "quantity": 27,
+    "manuf": "Adaptable Innovations",
+    "product_id": "601363b043fd42ee829f9f6674d3f66d"
+  },
+  {
+    "name": "Streamlined Thingummy",
+    "color": "Burgundy",
+    "price": 29.99,
+    "quantity": 59,
+    "manuf": "Sleek Solutions",
+    "product_id": "6467f9b8de1b4ca1be1e1a964598df8a"
+  },
+  {
+    "name": "Cutting-Edge Whatnot",
+    "color": "Lime",
+    "price": 41.99,
+    "quantity": 4,
+    "manuf": "Tech Trailblazers",
+    "product_id": "8d0296b411ba49c39dbf7601cc5d2c6e"
+  },
+  {
+    "name": "Durable Doohickey",
+    "color": "Plum",
+    "price": 24.99,
+    "quantity": 33,
+    "manuf": "Tough Stuff",
+    "product_id": "feb4ccf696974e0caaae74d738c53ce8"
+  },
+  {
+    "name": "Advanced Gadget",
+    "color": "Teal",
+    "price": 51.99,
+    "quantity": 66,
+    "manuf": "Innovative Industries",
+    "product_id": "596f8e231c04408b80d726832c05d053"
+  },
+  {
+    "name": "Premium Thingamajig",
+    "color": "Gold",
+    "price": 62.99,
+    "quantity": 92,
+    "manuf": "Luxury Goods",
+    "product_id": "d0aadafa2c294de6b5333f8181736c73"
+  }
+]
