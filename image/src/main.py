@@ -4,14 +4,16 @@ import json
 import os
 import csv
 from fastapi import HTTPException
+from mangum import Mangum
 from pydantic import BaseModel
 from uuid import uuid4
 from typing import Optional
 from fastapi.encoders import jsonable_encoder
 
+
 # create api root entry with FastAPI
 app = FastAPI()
-
+handler = Mangum(app)
 # product model
 
 
