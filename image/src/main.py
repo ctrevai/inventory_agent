@@ -32,7 +32,7 @@ if os.path.exists(PRODUCT_FILE):
         PRODUCT_DB = json.load(f)
 else:
     # open csv file and dumb to json
-    with open("./Data/productlist.csv", "r") as f:
+    with open("../../Data/productlist.csv", "r") as f:
         reader = csv.reader(f)
         for row in reader:
             new_product = Product(
