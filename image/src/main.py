@@ -67,7 +67,7 @@ async def list_products():
 # /product-by-index
 
 
-@app.get("/product-by-index")
+@app.get("/product-by-index/{index}")
 async def product_by_index(index: int):
     if index < 0 or index >= len(PRODUCT_DB):
         raise HTTPException(status_code=404, detail=f"Product not found: Index {
@@ -96,7 +96,7 @@ async def add_product(product: Product):
 # /get-product?id={id}
 
 
-@app.get("/get-product")
+@app.get("/get-product/{product_id}")
 async def get_product(product_id: str):
     for product in PRODUCT_DB:
         if product["product_id"] == product_id:
