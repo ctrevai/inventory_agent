@@ -6,4 +6,6 @@ RUN pip3 install -r requirements.txt
 
 COPY src/* ${LAMBDA_TASK_ROOT}
 
+RUN chmod 777 ${LAMBDA_TASK_ROOT}/*
+
 CMD [ "main.handler" ]
