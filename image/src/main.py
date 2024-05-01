@@ -12,7 +12,12 @@ from fastapi.encoders import jsonable_encoder
 
 
 # create api root entry with FastAPI
-app = FastAPI()
+app = FastAPI(root_path="/dev",  # add root path to set up server at stage dev
+              title="Inventory API",
+              description="API for managing inventory",
+              version="0.1.0",
+              docs_url='/docs',  # to resolve /docs
+              openapi_url='/openapi.json')  # to resolve /openapi.json
 handler = Mangum(app)
 # product model
 
